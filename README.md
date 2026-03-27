@@ -49,6 +49,9 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 
 🔗 GitHub: https://github.com/smukherjee-07
 
+🔗 LinkedIn:
+https://www.linkedin.com/in/soumallaya-mukherjee
+
 ---
 
 ### 💻 Task 3: Coding & Collaboration Platforms
